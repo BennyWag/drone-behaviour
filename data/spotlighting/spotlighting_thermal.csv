@@ -1,0 +1,265 @@
+site_ID,transect,transect_bearing,observer,observer_no,date,obs_time,lat,long,waypoint_ID,species,n_animals,left_or_right,right_angle,bearing_to_animal,distance_to_animal,distance_on_transect,obs_type,behavior,tree_species,comments,seen_by_obs1,seen_by_obs2,seen_by_both,obs_id
+Kinglake,1,243,OLM,1,6/2/2024,23:09:00,-37.4434,145.324393,KL 1 OLM 1,Southern Greater Glider,2,Right,No,30,12,10,seen,idle,Peppermint Gum,,1,1,1,1
+Kinglake,1,243,OLM,1,6/2/2024,23:28:00,-37.4437,145.323471,KL 1 OLM 2,Southern Greater Glider,1,Right,Yes,340,30,100,seen,moving,Peppermint Gum,,1,1,1,2
+Kinglake,1,243,OLM,1,6/2/2024,23:38:00,-37.4442,145.322754,KL 1 OLM 3,Southern Greater Glider,1,Left,Yes,140,8,175,seen,idle,Peppermint Gum,,1,1,1,3
+Kinglake,2,63,OLM,1,6/2/2024,22:16:00,-37.4456,145.320804,KL 2 OLM 1,Southern Greater Glider,1,Right,Yes,95,15,120,seen,moving,Stringybark Gum,,1,0,0,4
+Kinglake,2,63,OLM,1,6/2/2024,22:29:00,-37.4452,145.321605,KL 2 OLM 2,Southern Greater Glider,1,Left,No,238,50,210,seen,moving,Stringybark Gum,,1,0,0,5
+Kinglake,3,242,OLM,1,6/2/2024,21:07:00,-37.4444,145.324604,KL 3 OLM 1,Southern Greater Glider,2,Right,Yes,235,25,30,seen,moving,Peppermint Gum,,1,0,0,6
+Kinglake,3,243,OLM,1,6/2/2024,21:47:00,-37.4459,145.320969,KL 3 OLM 2,Southern Greater Glider,1,Left,Yes,105,2,390,seen,moving,Stringybark Gum,,1,0,0,7
+Kinglake,1,243,JJ,2,6/2/2024,23:15:00,-37.4434,145.324295,KL T1 JJ 1,Southern Greater Glider,2,Right,No,30,15,20,seen,idle,Gum,,1,1,1,8
+Kinglake,1,243,JJ,2,6/2/2024,23:25:00,-37.4436,145.323679,KL T1 JJ 2,Southern Greater Glider,1,Right,No,290,20,75,seen,idle,Peppermint Gum,,0,1,0,9
+Kinglake,1,243,JJ,2,6/2/2024,23:34:00,-37.4438,145.323252,KL T1 JJ 3,Southern Greater Glider,1,Right,Yes,325,25,115,seen,idle,Peppermint Gum,,1,1,1,10
+Kinglake,1,243,JJ,2,6/2/2024,23:43:00,-37.4441,145.322755,KL T1 JJ 4,Southern Greater Glider,1,Left,No,150,10,175,seen,idle,Peppermint Gum,,1,1,1,11
+Kinglake,2,63,JJ,2,6/2/2024,22:28:00,-37.4453,145.321251,KL T2 JJ 1,Southern Greater Glider,1,Left,No,300,10,170,seen,idle,Gum,,0,1,0,12
+Kinglake,2,63,JJ,2,6/2/2024,22:51:00,-37.4447,145.322584,KL T2 JJ 2,Southern Greater Glider,1,Left,No,10,25,305,seen,idle,Gum,,0,1,0,13
+Kinglake,3,242,JJ,2,6/2/2024,21:11:00,-37.4442,145.324793,KL T3 JJ 1,Southern Greater Glider,1,Right,Yes,0,20,0,seen,idle,Peppermint Gum,,0,1,0,14
+Kinglake,3,242,JJ,2,6/2/2024,21:19:00,-37.4444,145.324359,KL T3 JJ2,Southern Greater Glider,1,Right,No,20,20,47,seen,idle,Peppermint Gum,,0,1,0,15
+Castella,3,152,OLM,1,14/9/2023,19:20:00,-37.49436102,145.432994,CAS3 OLM 1,Southern Greater Glider,1,right ,yes,36,40,300,seen,idle,"Eucalyptus, stringy bark",,1,1,1,16
+Castella,3,152,OLM,1,14/9/2023,19:34:00,-37.49242304,145.432794,CAS3 OLM 2,Southern Greater Glider,1,right ,no,47,1,420,seen,idle,"Eucalyptus, stringy bark",,1,1,1,17
+Castella,2,305,OLM,1,14/9/2023,20:06:00,-37.492905,145.43338,CAS2 OLM3,Southern Greater Glider,1,left ,no,127,20,140,seen,idle,"Eucalyptus, stringy bark",,1,1,1,18
+Castella,2,305,OLM,1,14/9/2023,20:29:00,-37.49401099,145.433603,CAS2 OLM 4,Southern Greater Glider,2,right ,yes,263,50,280,seen,idle,"Eucalyptus, stringy bark",,1,0,0,19
+Castella,1,156,OLM,1,14/9/2023,21:25:00,-37.49501497,145.43447,CAS 1 OLM 5,Southern Greater Glider,1,right ,yes,209,15,170,seen,idle,"Eucalyptus, stringy bark",,1,0,0,20
+Castella,2,305,CT,2,14/9/2023,20:36:00,-37.494113,145.433547,CAS2 CT1,Southern Greater Glider,2,right ,no,355,30,250,seen,idle,"Eucalyptus, stringy bark",,1,1,1,21
+Castella,3,152,CT,2,14/9/2023,19:41:00,-37.49412599,145.433025,CAS3 CT1,Southern Greater Glider,1,right ,no,197,20,320,seen,idle,"Eucalyptus, stringy bark",,1,1,1,22
+Castella,3,152,CT,2,14/9/2023,19:53:00,-37.492345,145.43268,CAS3 CT2,Southern Greater Glider,1,right ,no,136,0,400,seen,idle,"Eucalyptus, stringy bark",Obs 2 track missing the end - GPS failed,1,1,1,23
+297-806-0001,3,131,SC,2,19/1/2024,00:30:00,-37.48708131,145.4344775,297 3 SC 1,Southern Greater Glider,1,left,Yes,350,15,0,seen,staring,Peppermint Gum,,0,1,0,24
+297-806-0001,3,131,SC,2,19/1/2024,00:36:00,-37.4872576,145.4348583,297 3 SC 2,Southern Greater Glider,2,left,No,85,30,35,seen,staring,Peppermint Gum,,0,1,0,25
+297-806-0001,3,131,SC,2,19/1/2024,00:55:00,-37.48796759,145.4353864,297 3 SC 3,Eastern Ringtail Possum,2,right,Yes,220,30,125,seen,moving,Peppermint Gum,,0,1,0,26
+297-806-0001,1,130,OLM,1,18/1/2024,21:39:00,-37.48687163,145.4356581,297 1 OLM 1,Southern Greater Glider,1,right,No,135,20,60,seen,moving,Peppermint Gum,,1,1,1,27
+297-806-0001,1,130,SC,2,18/1/2024,21:45:00,-37.48684698,145.435843,297 1 SC 1,Southern Greater Glider,1,right,No,135,20,67,seen,Active,Peppermint Gum,,1,1,1,28
+297-806-0001,1,130,SC,2,18/1/2024,22:08:00,-37.48724797,145.436194,297 1 SC 2,Boobook ,1,left,No,120,60,120,heard,N/A,N/A,,N/A,N/A,N/A,29
+297-806-0001,2,312,OLM,1,18/1/2024,22:09:00,-37.4866886,145.4347684,297 2 OLM 2,Boobook ,1,left,No,70,50,350,heard,N/A,N/A,,N/A,N/A,N/A,30
+297-806-0001,2,312,OLM,1,18/1/2024,23:09:00,-37.48759078,145.4361973,297 2 OLM 1,Eastern Ringtail Possum,1,right,Yes,0,1,100,seen,moving,Stringybark,,1,1,1,31
+297-806-0001,2,312,SC,2,18/1/2024,23:12:00,-37.489209,145.43814,297 2 SC 1,Eastern Ringtail Possum,1,right,No,82,3,107,seen,moving,Stringybark,,1,1,1,32
+297-806-0001,2,312,OLM,1,18/1/2024,23:55:00,-37.4867335,145.4347562,297 2 OLM 3,Southern Greater Glider,1,right,No,19,20,500,seen,idle,Peppermint Gum,,1,1,1,33
+297-806-0001,2,312,SC,2,18/1/2024,23:57:00,-37.48720597,145.435276,297 2 SC 2,Southern Greater Glider,2,left,No,35,30,441,seen,staring,Peppermint Gum,,0,1,0,34
+297-806-0001,2,312,SC,2,19/1/2024,00:12:00,-37.48212605,145.462131,297 2 SC 3,Southern Greater Glider,1,right,Yes,80,25,500,seen,moving,Peppermint Gum,,1,1,1,35
+297-806-0001,2,312,SC,2,19/1/2024,00:14:00,-37.48674296,145.4347899,297 2 SC 4,Eastern Ringtail Possum,1,left,No,200,15,500,seen,resting,Peppermint Gum,,0,1,0,36
+299-510-0007,1,152,DL,1,16/2/2024,23:18:00,-37.51229829,145.5987217,YEL T1 DL 01,Ringtail Possum,1,Left,Yes,22,5,45,seen,staring,Silver Wattle,,1,0,0,37
+299-510-0007,1,152,DL,1,16/2/2024,23:19:00,-37.51230097,145.598691,YEL T1 DL 02,Yellow-bellied Glider,1,Right,No,171,30,45,heard,n/a,n/a,,N/A,N/A,N/A,38
+299-510-0007,1,152,DL,1,16/2/2024,23:23:00,-37.51253399,145.598766,YEL T1 DL 03,Mountain Brushtail Possum,1,Right,Yes,228,5,70,seen,staring,Silver Wattle,,1,1,1,39
+299-510-0007,1,152,NP,2,16/2/2024,23:30:00,-37.51264396,145.598615,YEL T1 NP 1,Mountain Brushtail Possum,1,Right,Yes,235,10,90,seen,resting,Wattle,,1,1,1,40
+299-510-0007,1,152,NP,2,16/2/2024,23:45:00,-37.513816,145.599393,YEL T1 NP 2,Ringtail Possum,1,Left,Yes,47,17,235,seen,resting,Wattle,,0,1,0,41
+299-510-0007,1,152,NP,2,17/2/2024,00:05:00,-37.51517002,145.600212,YEL T1 NP 3,Mountain Brushtail Possum,1,Right,Yes,235,20,405,seen,resting,Wattle,,0,1,0,42
+299-510-0007,2,327,NP,2,16/2/2024,22:55:00,-37.51344401,145.598452,YEL T2 NP 1,Southern Greater Glider,1,Left,No,219,20,355,seen,resting,Gum/Ash,Prob same as YEL T3 NP 1,0,1,0,43
+299-510-0007,3,156,DL,1,16/2/2024,21:18:00,-37.51376898,145.59809,YEL T3 DL 01,Southern Greater Glider,1,Left,Yes,74,50,150,seen,staring,Gum,,1,1,1,44
+299-510-0007,3,156,DL,1,16/2/2024,21:42:00,-37.51495804,145.598715,YEL T3 DL 02,Yellow-bellied Glider,1,Right,No,146,40,295,heard,n/a,n/a,,n/a,n/a,n/a,45
+299-510-0007,3,156,NP,2,16/2/2024,21:30:00,-37.513801,145.598063,YEL T3 NP 1,Southern Greater Glider,1,Left,No,66,35,155,seen,resting,Gum/Ash,,1,1,1,46
+299-510-0007,3,156,NP,2,16/2/2024,21:42:00,-37.51433199,145.598273,YEL T3 NP 2,Yellow-bellied Glider,1,Right,No,236,50,215,heard,n/a,n/a,,n/a,n/a,n/a,47
+299-510-0007,3,156,NP,2,16/2/2024,21:46:00,-37.51445202,145.598364,YEL T3 NP 3,Mountain Brushtail Possum,1,Right,No,127,30,235,seen,climbing,Gum,,0,1,0,48
+299-510-0007,3,156,NP,2,16/2/2024,21:57:00,-37.51511998,145.59885,YEL T3 NP 4,Southern Greater Glider,1,Left,No,50,35,320,seen,resting,Gum,,0,1,0,49
+299-944-0002 (NAR),1,340,JJ,2,31/1/2024,21:24:00,-37.51034598,145.604087,NAR T1 JJ 1,Greater Glider,1,Left,No,330,20,165,Seen,idle,Stringybark,,1,1,1,50
+299-944-0002 (NAR),1,340,JJ,2,31/1/2024,22:02:00,-37.50807096,145.603176,NAR T1 JJ 2,Greater Glider,1,right,Yes,0,20,430,Seen,idle,Stringybark,,1,1,1,51
+299-944-0002 (NAR),1,340,JLI,1,31/1/2024,21:07:00,-37.51096196,145.60423,NAR T1 JLI 1,Greater Glider,1,Left,No,312,20,108,Seen,moving,Stringybark/Hollow,Emerging from hollow,1,1,1,52
+299-944-0002 (NAR),1,340,JLI,1,31/1/2024,21:50:00,-37.50814003,145.603092,NAR T1 JLI 2,Greater Glider,1,right,Yes,16,15,430,Seen,idle,Stringybark,,1,1,1,53
+299-944-0002 (NAR),2,160,JJ,2,31/1/2024,22:19:00,-37.50824296,145.603669,NAR T2 JJ 1,Greater Glider,1,Left,Yes,50,25,107,Seen,idle,Gum,,0,1,0,54
+299-944-0002 (NAR),2,160,JJ,2,31/1/2024,22:35:00,-37.51012604,145.604375,NAR T2 JJ 2,Greater Glider,1,Left,No,320,30,320,Seen,moving,Gum,,0,1,0,55
+299-944-0002 (NAR),2,160,JJ,2,31/1/2024,22:52:00,-37.51125801,145.605107,NAR T2 JJ 3,Greater Glider,1,Right,No,200,20,470,Seen,Idle,Gum,,0,1,0,56
+299-944-0002 (NAR),2,160,JLI,1,31/1/2024,22:00:00,-37.50741801,145.60342,NAR T2 JLI 1,Greater Glider,1,Left,Yes,55,20,0,Seen,Watching,Gum,,1,0,0,57
+299-944-0002 (NAR),2,160,JLI,1,31/1/2024,22:16:00,-37.50934501,145.604078,NAR T2 JLI 2,Eastern Ring-tailed Possum,2,right,Yes,0,0,226,Seen,Watching,Gum,,1,0,0,58
+299-944-0002 (NAR),3,340,JJ,2,31/1/2024,23:15:00,-37.51080296,145.605285,NAR T3 JJ 1,Greater Glider,1,Left,no,210,15,72,Seen,idle,Gum,,1,1,1,59
+299-944-0002 (NAR),3,340,JJ,2,31/1/2024,23:23:00,-37.51020097,145.605144,NAR T3 JJ 2,Greater Glider,1,Left,no,210,15,150,Seen,idle,Peppermint,,1,1,1,60
+299-944-0002 (NAR),3,340,JJ,2,1/2/2024,00:01:00,-37.50722297,145.603857,NAR T3 JJ 4,Greater Glider,1,Left,no,290,15,500,Seen,Idle,Peppermint,,1,1,1,61
+299-944-0002 (NAR),3,340,JLI,1,31/1/2024,23:01:00,-37.51092902,145.605464,NAR T3 JLI 1,Greater Glider,1,Left,Yes,236,25,69,Seen,Feeding,Peppermint,Flowering,1,1,1,62
+299-944-0002 (NAR),3,340,JLI,1,31/1/2024,23:07:00,-37.51054698,145.605315,NAR T3 JLI 2,Greater Glider,1,Right,Yes,84,20,112,Seen,Idle,Peppermint,,1,0,0,63
+299-944-0002 (NAR),3,340,JLI,1,31/1/2024,23:10:00,-37.51036802,145.605187,NAR T3 JLI 3,Greater Glider,1,Left,No,182,25,130,Seen,Idle,Peppermint,,1,1,1,64
+299-944-0002 (NAR),3,340,JLI,1,31/1/2024,23:24:00,-37.50925801,145.604431,NAR T3 JLI 4,Greater Glider,1,right,No,12,25,274,Seen,idle,Peppermint,,1,0,0,65
+299-944-0002 (NAR),3,340,JLI,1,31/1/2024,23:52:00,-37.507243,145.604026,NAR T3 JLI 5,Greater Glider,1,right,No,270,20,500,Seen,idle,Peppermint,,1,1,1,66
+209-502-0002,1,56,OLM,1,30/1/2024,21:35:00,-37.5626000,145.6811000,ACH T1 OLM 1,Southern Greater Glider,1,left,No,106,20,400,seen,gliding,N/A,,1,0,0,67
+209-502-0002,2,235,JJ,2,30/1/2024,22:33:00,-37.5623000,145.6802,ACH T2 JJ 1,Yellow-bellied Glider,1,left,No,280,75,150,heard,calling,N/A,,N/A,N/A,N/A,68
+209-502-0002,2,235,JJ,2,30/1/2024,22:52:00,-37.5629000,145.6791,ACH T2 JJ 2,Yellow-bellied Glider,1,right,No,320,35,150,heard,calling,N/A,,N/A,N/A,N/A,69
+209-502-0002,2,235,JJ,2,30/1/2024,22:56:00,-37.5630000,145.679,ACH T2 JJ 4,Yellow-bellied Glider,1,right,No,240,20,280,seen,moving,Stringybark,,0,1,0,70
+209-502-0002,2,235,OLM,1,30/1/2024,22:33:00,-37.5625000,145.6799,ACH T2 OLM 1,Yellow-bellied Glider,1,left,No,260,50,240,heard,calling,N/A,,N/A,N/A,N/A,71
+209-502-0002,2,235,OLM,1,30/1/2024,22:50:00,-37.5630000,145.679,ACH T2 OLM 2,Yellow-bellied Glider,1,left,No,333,50,280,heard,calling,N/A,,N/A,N/A,N/A,72
+209-502-0002,2,235,OLM,1,30/1/2024,22:53:00,-37.5630000,145.679,ACH T2 OLM 3,Yellow-bellied Glider,1,left,No,185,50,290,heard,calling,Stringybark,,N/A,N/A,N/A,73
+209-502-0002,3,56,JJ,2,30/1/2024,23:24:00,-37.5637000,145.6765,ACH T3 JJ 1,Boobook,1,left,No,290,100,0,heard,calling,N/A,,N/A,N/A,N/A,74
+209-502-0002,3,56,OLM,1,30/1/2024,23:24:00,-37.5632000,145.6774,ACH T3 OLM 1,Boobook,1,left,No,275,50,95,heard,calling,N/A,,N/A,N/A,N/A,75
+Babbington,1,260,OLM,1,16/1/2024,00:38:00,-37.38113198,144.248764,BABB1 OLM 1,Koala,2,L,N,21,30,300,Heard,Calling,unknown,,N/A,N/A,N/A,76
+Babbington,1,260,OLM,1,16/1/2024,00:35:00,-37.38140398,144.249151,BABB1 OLM 2,Southern Greater Glider,1,L,Y,194,25,280,Seen,Idle,"Eucalyptus, stringy bark",,1,0,0,77
+Babbington,2,90,OLM,1,16/1/2024,23:53:00,-37.38182098,144.248342,BABB2 OLM 1,Southern Greater Glider,1,L,N,126,35,340,Seen,moving,"Eucalyptus, smooth gum",,1,0,0,78
+Babbington,3,270,OLM,1,15/1/2024,21:47:00,-37.38225801,144.247307,BABB3 OLM 1,Eastern Ringtail Possum,1,L,Y,336,10,330,seen,Idle,"Eucalyptus, smooth gum",,1,0,0,79
+Babbington,3,270,OLM,1,15/1/2024,22:13:00,-37.38226698,144.248492,BABB3 OLM 3,Southern Greater Glider,1,R,N,95,25,180,Seen,Idle,"Eucalyptus, smooth gum",,1,1,1,80
+Babbington,1,260,JJ,2,15/1/2024,00:06:00,-37.38108102,144.245306,BABB1 JJ 1,Boobook,1,L,N,330,100,50,Heard,Calling,unknown,,N/A,N/A,N/A,81
+Babbington,1,260,JJ,2,16/1/2024,00:30:00,-37.38105303,144.247512,BABB1 JJ 2,Koala,2,L,N,35,45,200,Heard,Calling,unknown,,N/A,N/A,N/A,82
+Babbington,2,90,JJ,2,15/1/2024,23:32:00,-37.38177404,144.248876,BABB2 JJ 1,Eastern Ringtail Possum,1,R,Y,298,30,150,Seen,Resting,"Eucalyptus, String bark",,0,1,0,83
+Babbington,3,270,JJ,2,15/1/2024,22:22:00,-37.38235197,144.249291,BABB3 JJ 2,Southern Greater Glider,1,R,N,100,20,350,Seen,Resting,"Eucalyptus, String bark",,1,1,1,84
+Backdoor,1,180,OLM,2,13/9/2023,19:54:00,-37.88719,145.983595,BAC1 OLM 1,Deer,1,NA,NA,unknown,unknown,unknown,heard,walking ,NA,,N/A,N/A,N/A,85
+Backdoor,1,180,OLM,2,13/9/2023,20:08:00,-37.887051,145.983563,BAC1 OLM 2,Souther Greater Glider,1,left ,no,98,30,38,seen,idle,Stringybark,,0,1,0,86
+Backdoor,1,180,OLM,2,13/9/2023,20:21:00,-37.88625204,145.983296,BAC1 OLM 3,Souther Greater Glider,1,right,yes,182,10,9,seen,idle,Stringybark,,0,1,0,87
+Boola,1,233,JJ,2,14/2/2024,23:50:00,-38.0839,146.4572,BOOLA 1 JJ 1,Ringtail Possum,3,left,No,220,15,395,seen,idle,Stringybark Gum,,1,1,1,88
+Boola,1,233,OLM,1,14/2/2024,23:49:00,-38.0839,146.4571,BOO1 OLM 1,Ringtail Possum,3,left,No,230,15,400,seen,idle,Stringybark Gum,,1,1,1,89
+Coliban,1,225,CT,1,15/8/2023,19:10:00,-37.343442,144.26542,COL1_CT_1,brush tailed possum,3,right,yes,300,3,30,seen,idle,unknown dead,,1,1,1,90
+Coliban,1,225,CT,1,15/8/2023,19:23:00,-37.343442,144.26542,COL1_CT_2,boobook owl,1,left,no,,,,heard,na,na,,1,1,1,91
+Coliban,1,225,CT,1,15/8/2023,19:46:00,-37.344109,144.263788,COL1_CT_3,brushtail possum,1,left,no,154,8,200,seen,idle,stringy bark,,1,1,1,92
+Coliban,1,225,CT,1,15/8/2023,19:58:00,-37.344663,144.262172,COL1_CT_4,ring tailed possum,2,right,no,294,5,350,seen,idle,acacia spp,,1,1,1,93
+Coliban,1,225,CT,1,15/8/2023,20:08:00,-37.345154,144.260796,COL1_CT_5,brush tailed possum,2,right,no,246,10,490,seen,idle,ribbonbark euc,,1,0,0,94
+Coliban,2,60,CT,1,15/8/2023,20:42:00,-37.344714,144.263262,COL2_CT_6,ringtail possum,1,left,no,86,1,320,seen,idle,messmate,,1,1,1,95
+Coliban,2,60,CT,1,15/8/2023,20:48:00,-37.34438,144.264086,COL2_CT_7,ringtail possum,2,left,no,351,15,350,seen,idle,stringy bark,,1,0,0,96
+Coliban,1,225,OLM,2,15/8/2023,19:25:00,-37.34327302,144.26581,COL1_OLM_1,brush tailed possum,2,right,yes,212,33,0,seen,idle,unknown dead,,1,1,1,97
+Coliban,1,225,OLM,2,15/8/2023,19:36:00,-37.34353303,144.265579,COL1_OLM_2,boobook owl,1,left,no,,,,heard,idle,na,,1,1,1,98
+Coliban,1,225,OLM,2,15/8/2023,20:11:00,-37.34429704,144.263275,COL1_OLM_3,brushtail possum,1,left,no,75,40,300,seen,idle,unknown,,1,1,1,99
+Coliban,1,225,OLM,2,15/8/2023,20:29:00,-37.34462896,144.262248,COL1_OLM_4,ring tailed possum,1,right,no,230,15,490,seen,idle,acacia spp,,1,1,1,100
+Coliban,2,60,OLM,2,15/8/2023,21:28:00,-37.34469401,144.263373,COL2_OLM_5,ringtail possum,1,left,no,75,5,320,seen,idle,messmate,,1,1,1,101
+Davis,1,334,CKL,1,1/2/2024,21:20:00,-37.890776,145.915205,DAV1 CKL 1,Eastern Ring-tailed Possum,1,right,No,313,10,,seen,moving,Peppermint Gum,,1,0,0,102
+Davis,1,334,CKL,1,1/2/2024,21:49:00,-37.88963397,145.91463,DAV1 CKL 2,Yellow-bellied Glider,1,left,No,240,50,,heard,N/A,N/A,,N/A,N/A,N/A,103
+Davis,2,152,CKL,1,1/2/2024,22:25:00,-37.89110499,145.915941,DAV2 CKL 1,Southern Greater Glider,2,left,no,43,60,,seen,Idle,Peppermint Gum,,1,1,1,104
+Davis,3,334,CKL,1,1/2/2024,23:02:00,-37.89103501,145.916596,DAV3 CKL 1,Eastern Ring-tailed Possum,1,right,No,35,10,,seen,Idle,Tea Tree,,1,0,0,105
+Davis,3,334,CKL,1,1/2/2024,23:24:00,-37.89098798,145.916554,DAV3 CKL 2,Southern Greater Glider,1,left,Yes,256,40,,seen,Active,Stringy,,1,1,1,106
+Davis,3,334,CKL,1,1/2/2024,23:31:00,-37.89216698,145.916157,DAV3 CKL 3,Southern Greater Glider,2,left,Yes,220,40,,seen,Idle,Peppermint Gum,,1,1,1,107
+Davis,1,334,JLI,2,1/2/2024,21:50:00,-37.88973799,145.914572,DAC T1 JLI 01,Yellow-bellied Glider,1,right,Yes,0,1,,heard,N/A,N/A,,N/A,N/A,N/A,108
+Davis,1,334,JLI,2,1/2/2024,22:02:00,-37.89109997,145.916188,DAC T1 JLI 02,Yellow-bellied Glider,1,right,No,82,3,,heard,N/A,N/A,,N/A,N/A,N/A,109
+Davis,2,152,JLI,2,1/2/2024,22:30:00,-37.892688,145.917712,DAC T2 JLI 01,Southern Greater Glider,2,left,No,35,60,,seen,idle,Peppermint Gum,"Two in same tree, one higher",1,1,1,110
+Davis,3,334,JLI,2,1/2/2024,23:29:00,-37.89095596,145.916515,DAC T3 JLI 01,Southern Greater Glider,1,left,No,254,35,,seen,staring,Stringy,,1,1,1,111
+Davis,3,334,JLI,2,1/2/2024,23:35:00,-37.89079998,145.916539,DAC T3 JLI 02,Southern Greater Glider,2,left,Yes,208,35,,seen,Idle,Peppermint Gum,,1,1,1,112
+300-910-0007,1,85,NP,2,2/2/2024,21:29:00,-37.5146,145.5706,DLR2 T1 NP 1,Eastern Ring-tailed Possum,2,left,Yes,324,12,180,seen,climbing,Silver Wattle,,0,1,0,113
+300-910-0007,1,85,NP,2,2/2/2024,21:40:00,-37.5143,145.5711,DLR2 T1 NP 2,Eastern Ring-tailed Possum,2,left,Yes,45,4,235,seen,resting,Silver Wattle,,0,1,0,114
+300-910-0007,1,85,NP,2,2/2/2024,21:52:00,-37.5146,145.5725,DLR2 T1 NP 3,Southern Greater Glider,1,right,No,183,30,350,seen,staring ,Gum,,1,1,1,115
+300-910-0007,1,85,NP,2,2/2/2024,21:59:00,-37.5145,145.5731,DLR2 T1 NP 4,Southern Greater Glider,1,right,Yes,218,15,400,seen,staring ,Gum,,0,1,0,116
+300-910-0007,2,262,NP,2,2/2/2024,23:04:00,-37.5156,145.5697,DLR2 T2 NP 1,Eastern Ring-tailed Possum,1,right,Yes,6,3,385,seen,resting,Correa sp.,,0,1,0,117
+300-910-0007,3,80,NP,2,2/2/2024,23:24:00,-37.5164,145.5689,DLR2 T3 NP 1,Mountain Brushtail Possum,2,left,No,45,7,15,seen,climbing,Silver Wattle,,0,1,0,118
+300-910-0007,3,80,NP,2,2/2/2024,23:30:00,-37.5164,145.5689,DLR2 T3 NP 2,Sugar Glider,1,right,No,150,30,20,heard,calling,N/A,,N/A,N/A,N/A,119
+300-910-0007,3,80,NP,2,2/2/2024,23:43:00,-37.5162,145.5701,DLR2 T3 NP 3,Eastern Ring-tailed Possum,1,left,Yes,135,7,120,seen,resting,Silver Wattle,,0,1,0,120
+300-910-0007,3,80,NP,2,2/2/2024,23:56:00,-37.5158,145.5715,DLR2 T3 NP 4,Eastern Ring-tailed Possum,1,left,Yes,166,15,250,seen,resting,Silver Wattle,,0,1,0,121
+300-910-0007,3,80,NP,2,3/2/2024,00:17:00,-37.5157,145.5732,DLR2 T3 NP 5,Eastern Ring-tailed Possum,1,left,Yes,185,21,405,seen,resting,Silver Wattle,,0,1,0,122
+300-910-0007,3,80,NP,2,3/2/2024,00:24:00,-37.5156,145.5737,DLR2 T3 NP 6,Eastern Ring-tailed Possum,1,right,No,29,6,455,seen,resting,Silver Wattle,,1,1,1,123
+300-910-0007,1,85,OLM,1,2/2/2024,21:49:00,-37.5143,145.5711,DLR2 T1 OLM 1,Eastern Ring-tailed Possum,1,right,Yes,95,1,225,seen,moving,Gum,,1,0,0,124
+300-910-0007,1,85,OLM,1,2/2/2024,22:09:00,-37.5144,145.5727,DLR2 T1 OLM 2,Southern Greater Glider,1,right,Yes,260,8,360,seen,active,Gum,,1,1,1,125
+300-910-0007,2,262,OLM,1,2/2/2024,22:56:00,-37.5151,145.5728,DLR2 T2 OLM 1,Southern Greater Glider,1,right,Yes,140,40,115,seen,idle,Gum,,1,0,0,126
+300-910-0007,3,80,OLM,1,3/2/2024,00:35:00,-37.5156,145.5737,DLR2 T3 OLM 1,Eastern Ring-tailed Possum,1,left,Yes,0,1,450,seen,idle,Wattle,,1,1,1,127
+Gags,1,4,SC,2,23/1/2024,01:36:00,-37.4842825,145.4636253,GAG1_SC_1,Greater Glider,1,left,No,330,45,235,seen,moving,Peppermint Gum,,0,1,0,128
+Gags,1,4,SC,2,23/1/2024,02:00:00,-37.48198738,145.4631747,GAG1_SC_3,Boobook,1,right,No,90,40,500,heard,calling,N/A,,0,1,0,129
+Gags,2,184,OLM,1,22/1/2024,22:46:00,-37.48549456,145.4618813,GAG2_OLM_1,Greater Glider,1,left,No,340,20,25,seen,moving,Eucalyptus ,,1,1,1,130
+Gags,2,184,SC,2,22/1/2024,23:57:00,-37.48551214,145.461847,GAG2_SC_1,Greater Glider,1,left,No,40,25,25,seen,moving,Eucalyptus ,,1,1,1,131
+Gags,3,4,SC,2,22/1/2024,22:20:00,-37.48212701,145.4621313,GAG3_SC_1,Greater Glider,1,left,No,225,50,80,seen,idle,Eucalyptus ,,1,1,1,132
+Gags,3,4,SC,2,22/1/2024,23:15:00,-37.48212605,145.462131,GAG3_SC_2,Greater Glider,1,right,No,330,30,450,seen,moving,Eucalyptus ,,1,1,1,133
+Gags,3,4,OLM,1,22/1/2024,22:23:00,-37.48205537,145.4621667,GAG3_OLM_1,Greater Glider,1,right,No,218,35,70,seen,idle,Eucalyptus ,,1,1,1,134
+Gags,3,4,OLM,1,22/1/2024,23:19:00,-37.48203331,145.4632416,GAG3_OLM_2,Greater Glider,1,left,Yes,68,5,460,seen,moving,Eucalyptus ,,1,1,1,135
+Ginters,1,95,CT,2,25/07/2023,18:42:00,-37.259299,145.586595,GLI1 CT 1,Southern Greater Glider,1,left,yes,0,9,30,seen,idle,Stringybark,,1,1,1,136
+Ginters,1,95,CT,2,25/07/2023,19:02:00,-37.259397,145.588919,GLI1 CT 2,Feather tail glider,1,right,no,150,1,250,seen,Gliding,Stringybark,,0,1,0,137
+Ginters,2,264,CT,2,25/07/2023,19:37:00,-37.259739,145.590166,GLI2 CT 3,Southern Greater Glider,1,right,no,330,25,140,seen,watching observer,Stringybark,,0,1,0,138
+Ginters,3,94,CT,2,25/07/2023,20:31:00,-37.260398,145.588857,GLI3 CT 4,Southern Greater Glider,1,right,no,180,25,250,seen,watching observer,Stringybark,,0,1,0,139
+Ginters,1,95,KA,1,25/07/2023,18:31:00,-37.25923204,145.586606,GLI1 KA 1,Southern Greater Glider,1,left,No,40,0,38,seen,Staring at observer,Stringybark,,1,1,1,140
+Ginters,1,95,KA,1,25/07/2023,18:40:00,-37.25931703,145.587407,GLI1 KA 2,Southern Greater Glider,1,right,yes,15,0,124,seen,Staring at observer,Stringybark,,1,0,0,141
+Ginters,3,94,KA,1,25/07/2023,20:21:00,-37.26039897,145.590171,GLI3 KA 1,Southern Greater Glider,2,right,yes,189,12,342,seen,Staring at observer,Stringybark,,1,0,0,142
+Mash,1,48,OLM,1,24/1/2024,01:01:00,-37.48828182,145.4318962,MASH_1_OLM_2,Southern Greater Glider,2,left,No,360,20,335,seen,moving,Peppermint Gum,,1,1,1,143
+Mash,1,48,OLM,1,24/1/2024,01:25:00,-37.48579236,145.4351491,MASH_1_OLM_3,Southern Greater Glider,1,left,No,68,25,500,seen,moving,Peppermint Gum,,1,1,1,144
+Mash,2,230,OLM,1,23/1/2024,23:16:00,-37.48615461,145.43392,MASH_2_OLM_1,Southern Greater Glider,2,right,No,168,25,115,seen,moving,Peppermint Gum,,1,1,1,145
+Mash,2,230,OLM,1,23/1/2024,23:26:00,-37.48614215,145.4336601,MASH_2_OLM_2,Southern Greater Glider,2,right,Yes,315,20,130,seen,idle,Peppermint Gum,,1,1,1,146
+Mash,3,47,OLM,1,23/1/2024,22:26:00,-37.48579316,145.4331697,MASH_3_OLM_1,Southern Greater Glider,1,right,No,113,25,375,seen,moving,Peppermint Gum,,1,1,1,147
+Mash,1,48,JJ,2,24/1/2024,01:00:00,-37.48678323,145.4337485,MASH_T1_JJ_1,Southern Greater Glider,2,left,No,350,20,330,seen,moving,Peppermint Gum,,1,1,1,148
+Mash,1,48,JJ,2,24/1/2024,01:25:00,-37.48576473,145.4351044,MASH_T1_JJ_2,Southern Greater Glider,1,left,No,25,55,500,seen,sitting,Peppermint Gum,,1,1,1,149
+Mash,2,230,JJ,2,23/1/2024,23:23:00,-37.48616377,145.4339311,MASH_T2_JJ_1,Southern Greater Glider,2,right,No,220,30,105,seen,moving,Peppermint Gum,,1,1,1,150
+Mash,2,230,JJ,2,23/1/2024,23:29:00,-37.48610761,145.4337739,MASH_T2_JJ_2,Southern Greater Glider,2,right,Yes,285,25,105,seen,sitting,Peppermint Gum,,1,1,1,151
+Mash,3,47,JJ,2,23/1/2024,22:40:00,-37.48587815,145.433462,MASH_3_JJ_1,Southern Greater Glider,1,right,Yes,120,25,385,seen,moving,Peppermint Gum,,1,1,1,152
+Merger,1,249,CB,2,8/2/2024,22:58:00,-37.9536,146.275,MER T1 CB 1,Yellow-bellied Glider,1,Left,No,150,40,,heard,n/a,n/a,,N/A,N/A,N/A,153
+Merger,3,247,NP,1,16/2/2024,00:35:00,-37.9547,146.2744,MER T3 NP 1,Southern Greater Glider,1,Left,Yes,58,30,,seen,staring,Gum,,1,0,0,154
+Mohican_1,1,164,NP,2,1/2/2024,22:20:00,-37.3672000,145.6626,MOH T1 NP 3,Ring-tail Possum,2,left,Yes,134,30,385,seen,staring,Gum,,0,1,0,155
+Mohican_1,1,164,NP,2,1/2/2024,22:35:00,-37.3679000,145.663,MOH T1 NP 4,Ring-tail Possum,2,right,No,179,6,470,seen,resting,Gum,,1,1,1,156
+Mohican_1,2,342,NP,2,1/2/2024,22:55:00,-37.3680000,145.6622,MOH T2 NP 1,Ring-tail Possum,1,left,Yes,191,30,30,seen,resting,Gum,,0,1,0,157
+Mohican_1,2,342,NP,2,1/2/2024,23:01:00,-37.3676000,145.6623,MOH T2 NP 2,Ring-tail Possum,1,right,No,331,17,60,seen,resting,Pomaderris sp.,,0,1,0,158
+Mohican_1,3,160,OLM,1,2/2/2024,00:27:00,-37.3671000,145.6612,MOH1 T3 OLM 3,Ring-tail Possum,1,left,Yes,40,8,345,seen,idle,Stringybark,,1,0,0,159
+Mohican_1,3,160,OLM,1,2/2/2024,00:35:00,-37.3682000,145.6619,MOH1 T3 OLM 4,Ring-tail Possum,1,right,Yes,220,6,475,seen,moving,Blackwood,,1,0,0,160
+Mohican_1,1,164,OLM,1,1/2/2024,21:29:00,-37.3643000,145.6617,MOH1 T1 OLM 1,Ring-tail Possum,1,left,Yes,60,1,50,seen,moving,Peppermint Gum,,1,0,0,161
+Mohican_1,1,164,OLM,1,1/2/2024,22:06:00,-37.3675000,145.6626,MOH1 T1 OLM 2,Ring-tail Possum,1,left,No,244,15,405,seen,jumping,Peppermint Gum,,1,0,0,162
+Mohican_1,1,164,OLM,1,1/2/2024,22:13:00,-37.3679000,145.6628,MOH1 T1 OLM 3,Ring-tail Possum,1,right,No,164,15,450,seen,moving,Peppermint Gum,,1,0,0,163
+Mohican_1,1,164,OLM,1,1/2/2024,22:17:00,-37.3679000,145.6631,MOH1 T1 OLM 4,Ring-tail Possum,2,right,Yes,260,3,475,seen,idle,Peppermint Gum,,1,1,1,164
+Mohican_1,2,342,OLM,1,1/2/2024,22:48:00,-37.3676000,145.6621,MOH1 T2 OLM 1,Ring-tail Possum,1,left,Yes,160,20,40,seen,moving,Peppermint Gum,,1,0,0,165
+Mohican_1,2,342,OLM,1,1/2/2024,22:51:00,-37.3677000,145.6621,MOH1 T2 OLM 2,Ring-tail Possum,1,right,Yes,0,8,40,seen,moving,Gum (seedlings),,1,0,0,166
+Mohican_1,2,342,OLM,1,1/2/2024,22:59:00,-37.3672000,145.6622,MOH1 T2 OLM 3,Ring-tail Possum,1,right,Yes,70,6,90,seen,moving,Peppermint Gum,,1,0,0,167
+Mohican_1,2,342,OLM,1,1/2/2024,23:29:00,-37.3645000,145.6612,MOH1 T2 OLM 4,Ring-tail Possum,1,left,Yes,220,3,400,seen,idle,Peppermint Gum,,1,0,0,168
+Mohican_2,2,270,CT,2,26/7/2023,21:43:00,-37.377029,145.638413,MOH_2_CT_1,Ringtail possum,1,left,No,88,5,495,seen,idle,Bankia Spp,,0,1,0,169
+Mohican_2,3,90,CT,2,26/7/2023,23:12:00,-37.37732,145.643227,MOH_2_CT_2,Ringtail possum,1,left,No,207,5,400,seen,idle,Unknown,,0,1,0,170
+Mohican_2,3,90,CT,2,26/7/2023,23:18:00,-37.377473,145.643814,MOH_2_CT_3,Ringtail possum,2,left,No,207,5,400,seen,idle,Peppermint,,0,1,0,171
+Mohican_3,1,160,EW,1,8/3/2023,18:46:00,-37.353477,145.638615,MOI_1_EW_1,Eastern Ring-tailed Possum,1,Left,Yes,286,14,190,Seen,Climbing,Messmate,Low in canopy,1,0,0,172
+Mohican_3,1,160,EW,1,8/3/2023,18:53:00,-37.3529166,145.63839,MOI_1_EW_2,Feather tail glider,1,Left,Na,272,10,230,Seen,Gliding,N/A,,1,0,0,173
+Mohican_3,3,160,EW,1,8/3/2023,20:31:00,-37.353022,145.639966,MOI_3_EW_3,Eastern Ring-tailed Possum,1,Right,No,12,10,220,Seen,Idle,Messmate,,1,1,1,174
+Mohican_3,2,350,CT,2,8/3/2023,19:49:00,-37.353135,145.639271,MOI_2_CT_1,Eastern Ring-tailed Possum,1,Right,no,311,8,270,Seen,Idle,Messmate,,0,1,0,175
+Mohican_3,2,160,CT,2,8/3/2023,19:49:00,-37.353135,145.639271,MOI_2_CT_1,Eastern Ring-tailed Possum,1,right,no,311,8,270,seen,watching observer,Messmate,,0,1,0,176
+Mohican_3,3,350,CT,2,8/3/2023,20:43:00,-37.353006,145.639917,MOI_3_CT_2,Eastern Ring-tailed Possum,1,right,no,18,5,240,seen,watching observer,Messmate,,1,1,1,177
+Narbethong,1,170,CT,1,8/2/2023,20:22:00,-37.530296,145.58834,NAR1 CT 1,Ring-tailed possum,1,right ,no,290,5,100,seen,Idle,E. viminalis,,1,0,0,178
+Narbethong,1,170,CT,1,8/2/2023,20:33:00,-37.529485,145.588432,NAR1 CT 2,Ring-tailed possum,1,right ,no,247,8,275,seen,Idle,E. viminalis,,1,0,0,179
+Narbethong,1,170,CT,1,8/2/2023,20:42:00,-37.528611,145.588234,NAR1 CT 3,Mountain Brush-tailed Possum,2,left,yes,180,10,300,seen,Idle,Acacia Spp,,1,1,1,180
+Narbethong,2,350,CT,1,8/2/2023,21:34:00,-37.528646,145.589123,NAR2 CT 4,Ring-tailed possum,1,left,no,180,22,200,seen,Idle,Acacia Spp,,1,0,0,181
+Narbethong,2,350,CT,1,8/2/2023,21:51:00,-37.529892,145.589096,NAR 2 CT 5,Ring-tailed possum,1,right,no,185,4,375,seen,Idle,Acacia Spp,,1,0,0,182
+Narbethong,1,170,EW,2,8/2/2023,20:52:00,-37.528596,145.588326,NAR_1_EW_1,Ring-tailed possum,1,Left,Yes,266,10,260,Seen,Idle,Acacia Spp,,0,1,0,183
+Narbethong,1,170,EW,2,8/2/2023,21:20:00,-37.527397,145.58832,NAR_1_EW_2,Ring-tailed possum,1,right,Yes,331,2,471,Seen,Idle,Acacia Spp,Juvenile,0,1,0,184
+Narbethong,2,350,EW,2,8/2/2023,22:11:00,-37.529472,145.589185,NAR_2_EW_3,Mountain Brush-tailed Possum,1,Left,Yes,51,12,310,Seen,Idle,Acacia Spp,,1,1,1,185
+Osborne,1,150,OLM,1,23/8/2023,18:52:00,-37.36544,144.23033,OSB1 OLM 1,Feathertailed glider,1,Left,No,60,2,0.33,seen,moving,Smooth bark Euc,,1,0,0,186
+Osborne,1,150,OLM,1,23/8/2023,18:52:00,-37.36544,144.23033,OSB1 OLM 2,Boobook Owl,1,Right,Yes,200,100,0.33,heard,moving,unknown,,N/A,N/A,N/A,187
+Osborne,2,340,OLM,1,23/8/2023,19:37:00,-37.36472,144.22916,OSB2 OLM 3,Southern Greater Glider,1,Right,Yes,42,80,0.24,seen,Idle,Smooth bark Euc,,1,1,1,188
+Osborne,2,340,OLM,1,23/8/2023,19:49:00,-37.36453,144.2288,OSB2 OLM 4,Southern Greater Glider,1,Left,No,262,25,0.22,seen,Idle,Stringybark,,1,1,1,189
+Osborne,3,150,OLM,1,23/8/2023,20:37:00,-37.36454,144.2288,OSB3 OLM 5,Southern Greater Glider,1,Left,No,80,1,0.22,seen,Idle,Stringybark,,1,0,0,190
+Osborne,1,150,CT,2,23/6/2023,18:34:00,-37.362525,144.229255,OSB_1_CT_1,Boobook Owl,1,left,No,,,5,heard,calling,N/A,,N/A,N/A,N/A,191
+Osborne,1,150,CT,2,23/6/2023,19:03:00,-37.365204,144.229748,OSB_1_CT_2,Boobook Owl,1,right,No,293,10,290,seen,watching observer,Stringybark,,0,1,0,192
+Osborne,1,150,CT,2,23/6/2023,19:10:00,-37.36545,144.23011,OSB_1_CT_3,Southern Greater Glider,1,left,No,88,5,330,seen,hiding in hollow,Stringybark,,0,1,0,193
+Osborne,1,150,CT,2,23/6/2023,19:14:00,-37.365518,144.230179,OSB_1_CT_4,Boobook Owl,1,right,No,245,3,340,seen,flying overhead,N/A,,0,1,0,194
+Osborne,2,340,CT,2,23/6/2023,19:45:00,-37.364854,144.229165,OSB_1_CT_5,Southern Greater Glider,1,right,No,30,35,240,seen,Idle,Smooth bark Euc,,1,1,1,195
+Osborne,2,340,CT,2,23/6/2023,19:51:00,-37.364854,144.229165,OSB_1_CT_6,Southern Greater Glider,1,left,No,288,25,240,seen,Idle,Stringybark,,1,1,1,196
+Osborne,3,150,CT,2,23/6/2023,20:26:00,-37.363,144.228085,OSB_1_CT_7,Southern Greater Glider,1,right,yes,240,5,40,seen,hiding in hollow,Stringybark,,0,1,0,197
+Quodpod,2,268,JJ,2,24/1/2024,23:27:00,-37.4078640,145.6126950,QAU T2 JJ 1,Ringtail Possum,1,left,No,200,10,20,seen,sitting,Smoothbark Gum,,0,1,0,198
+Quodpod,2,268,JJ,2,25/1/2024,00:07:00,-37.4080400,145.61032,QAU T2 JJ 2,Ringtail Possum,1,left,No,170,30,230,seen,sitting,Stringybark Gum,,1,1,1,199
+Quodpod,2,268,JJ,2,25/1/2024,00:11:00,-37.4080200,145.610305,QAU T2 JJ 3,Ringtail Possum,2,right,No,280,40,230,seen,idle,Gum,,0,1,0,200
+Quodpod,3,89,JJ,2,25/1/2024,01:40:00,-37.4085240,145.609044,QUA T3 JJ 2,Ringtail Possum,1,left,No,86,30,135,seen,idle,Eucalyptus ,,1,1,1,201
+Quodpod,1,88,OLM,1,24/1/2024,22:05:00,-37.4077070,145.607801,QUA 1 OLM 2,Ringtail Possum,1,right,Yes,136,40,20,seen,resting,Stringybark Gum,,1,0,0,202
+Quodpod,1,88,JJ,2,24/1/2024,22:13:00,-37.4077530,145.607612,QUA T1 JJ 1,Ringtail Possum,1,right,No,152,25,0,seen,idle,Gum,,1,1,1,203
+Quodpod,1,88,JJ,2,24/1/2024,22:46:00,-37.4076870,145.609483,QUA T1 JJ 2,Ringtail Possum,2,right,No,152,20,170,seen,idle,Smoothbark Gum,,0,1,0,204
+Quodpod,3,89,JJ,2,25/1/2024,01:29:00,-37.4084580,145.608953,QUA T3 JJ 1,Ringtail Possum,1,left,No,5,5,125,seen,idle,Smoothbark Gum,,0,1,0,205
+Quodpod,3,89,JJ,2,25/1/2024,01:47:00,-37.4085120,145.609343,QUA T3 JJ 3,Mountain Brushtail Possum,2,right,Yes,90,10,160,seen,idle,Gum,,1,1,1,206
+Quodpod,3,89,JJ,2,25/1/2024,02:30:00,-37.4085310,145.612094,QUA T3 JJ 4,Ringtail Possum,1,right,No,150,40,400,seen,idle,Gum,,1,1,1,207
+Quodpod,1,88,OLM,1,24/1/2024,21:57:00,-37.4077550,145.607609,QUA1 OLM 1,Ringtail Possum,1,right,No,156,30,0,seen,idle,Gum,,1,1,1,208
+Quodpod,1,88,OLM,1,24/1/2024,22:15:00,-37.4076230,145.608046,QUA1 OLM 3,Ringtail Possum,2,left,Yes,136,40,45,seen,moving,Gum,,1,0,0,209
+Quodpod,1,88,OLM,1,24/1/2024,22:42:00,-37.4076900,145.610402,QUA1 OLM 4,Ringtail Possum,1,left,Yes,18,20,250,seen,idle,Gum,,1,0,0,210
+Quodpod,1,88,OLM,1,24/1/2024,22:55:00,-37.4076750,145.611105,QUA1 OLM 5,Ringtail Possum,1,left,No,261,40,310,seen,moving,Gum,,1,0,0,211
+Quodpod,2,268,OLM,1,24/1/2024,23:28:00,-37.4079570,145.612173,QUA2 OLM 1,Ringtail Possum,1,left,Yes,154,2,70,seen,moving,Dead tree,,1,0,0,212
+Quodpod,2,268,OLM,1,24/1/2024,23:59:00,-37.4080160,145.610391,QUA2 OLM 2,Ringtail Possum,1,left,No,196,30,225,seen,idle,Stringybark Gum,,1,1,1,213
+Quodpod,2,268,OLM,1,25/1/2024,00:03:00,-37.4080360,145.610288,QUA2 OLM 3,Ringtail Possum,2,right,No,156,90,235,seen,idle,Gum,,1,0,0,214
+Quodpod,3,89,OLM,1,25/1/2024,01:02:00,-37.4085990,145.607775,QUA3 OLM 1,Ringtail Possum,1,right,Yes,215,2,25,seen,moving,Roughbark Gum,,1,0,0,215
+Quodpod,3,89,OLM,1,25/1/2024,01:27:00,-37.4083890,145.609036,QUA3 OLM 2,Ringtail Possum,1,left,No,340,8,135,seen,idle,Gum,,1,1,1,216
+Quodpod,3,89,OLM,1,25/1/2024,01:40:00,-37.4085530,145.609363,QUA3 OLM 3,Mountain Brushtail Possum,2,left,No,41,10,160,seen,moving,Gum,,1,1,1,217
+Quodpod,3,89,OLM,1,25/1/2024,01:57:00,-37.4085470,145.609916,QUA3 OLM 4,Ringtail Possum,2,right,No,141,8,210,seen,idle,Gum,,1,0,0,218
+Quodpod,3,89,OLM,1,25/1/2024,02:30:00,-37.4085390,145.612086,QUA3 OLM 5,Ringtail Possum,1,right,Yes,151,100,400,seen,idle,Gum,,1,1,1,219
+Tarrango,3,165,CT,2,12/9/2023,19:26:00,-37.832065,145.71547,TAR3 CT1,Boobook owl,2,N/A,N/A,15,40,200,Heard,Calling,N/A,Heard by both,N/A,N/A,N/A,220
+Troop,1,310,KA,1,17/7/2023,19:25:00,-37.57866704,145.703337,Trp_KA_1,Sugar glider ,1,L,No,295,150,,Heard,N/A,N/A,,N/A,N/A,N/A,221
+Troop,1,310,KA,1,17/7/2023,19:31:00,-37.57860099,145.703291,Trp_KA_2,Mountain brush tail ,1,R,No,111,21,12,Seen,Idle,Peppermint,,1,0,0,222
+Troop,1,310,KA,1,17/7/2023,19:41:00,-37.57797704,145.702655,Trp_KA_3,Eastern ringtail Possum,1,R,No,290,23,97,Seen,Idle,Peppermint ,,1,0,0,223
+Troop,1,310,KA,1,17/7/2023,19:50:00,-37.57787797,145.702363,Trp_KA_4,Southern Greater Glider,2,L,Yes,201,13,116,Seen,Idle. Looking at me,Peppermint ,B/W,1,1,1,224
+Troop,1,310,KA,1,17/7/2023,19:58:00,-37.577466,145.702223,Trp_KA_5,Red fox,1,R,Yes,24,10,160,Seen,Scanning. Looking at me,N/A,,1,0,0,225
+Troop,1,310,KA,1,17/7/2023,20:09:00,-37.57700097,145.701816,Trp_KA_6,Southern Greater Glider,1,L,Yes,250,19,229,Seen,"Sitting on branch, moved from foliage to look at me",Peppermint ,B/W,1,0,0,226
+Troop,2,145,KA,1,17/7/2023,20:41:00,-37.57518402,145.699571,Trp_KA_7,Southern Greater Glider,1,R,No,266,12,0,Seen,"Sitting on branch, faced away from me",Peppermint ,B/W,1,0,0,227
+Troop,2,145,KA,1,17/7/2023,20:50:00,-37.57577796,145.69986,Trp_KA_8,Southern Greater Glider,3,L,Yes,27,6,70,Seen,All looking at me,Peppermint ,B/W,1,1,1,228
+Troop,2,145,KA,1,17/7/2023,20:46:00,-37.57562701,145.69973,Trp_KA_9,Southern Greater Glider,1,R,Yes,266,22,50,Seen,Moved behind foliage ,Peppermint ,B/W,1,0,0,229
+Troop,2,145,KA,1,17/7/2023,21:02:00,-37.57608499,145.7004,Trp_KA_10,Eastern ringtail Possum,1,L,Yes,173,5,130,Seen,Idle,Peppermint ,B/W,1,0,0,230
+Troop,2,145,KA,1,17/7/2023,21:07:00,-37.57647702,145.700553,Trp_KA_11,Feral cat,1,R,No,141,2,171,Seen,N/A,N/A,B/W,1,0,0,231
+Troop,2,145,KA,1,17/7/2023,21:08:00,-37.57656,145.700595,Trp_KA_12,Southern Greater Glider,1,R,No,151,8,171,Seen,Looking at me,Peppermint ,B/W,1,0,0,232
+Troop,2,145,KA,1,17/7/2023,21:24:00,-37.57925101,145.702873,Trp_KA_14,Southern Greater Glider,1,L,No,132,0,490,Seen,looking at me,Peppermint ,B/W,1,0,0,233
+Troop,2,145,KA,1,17/7/2023,21:25:00,-37.57931999,145.702862,Trp_KA_15,Sooty Owl,1,N/A ,No,132,100,490,Heard,N/A,N/A,N/A,N/A,N/A,N/A,234
+Troop,2,145,KA,1,17/7/2023,21:27:00,-37.579278,145.702878,Trp_KA_16,Southern Greater Glider,1,R,Yes,215,0,490,Seen,looking at me then moved behind foliage ,Peppermint ,B/W,1,0,0,235
+Troop,3,310,KA,1,17/7/2023,21:39:00,-37.57899402,145.701842,Trp_KA_17,Southern Greater Glider,1,L,Yes,239,2,240,Seen,looking at me ,Peppermint ,B/W,1,1,1,236
+Troop,3,310,KA,1,17/7/2023,21:52:00,-37.577913,145.700943,Trp_KA_18,Feathertail ,1,L,Yes,235,2,180,Seen,N/A,N/A,Gliding,1,0,0,237
+Troop,3,310,KA,1,17/7/2023,22:05:00,-37.57654097,145.6997,Trp_KA_19,Southern Greater Glider,1,R,Yes,39,8,371,Seen,Staring ,Peppermint ,B/W,1,0,0,238
+Troop,3,310,KA,1,17/7/2023,22:08:00,-37.57654298,145.699761,Trp_KA_20,Yellow Bellied-Glider,1,R,No,52,40,371,Heard,N/A,N/A,N/A,N/A,N/A,N/A,239
+Troop,3,310,KA,1,17/7/2023,22:16:00,-37.57558602,145.698792,Trp_KA_21,Southern Greater Glider,2,R,Yes,24,2,500,Seen,Looking at me,Peppermint ,B/W,1,1,1,240
+Troop,1,310,CT,2,17/7/2023,19:58:00,-37.577884,145.702522,Trp_CT_1,Southern Greater Glider,2,L,Yes,210,8,100,Seen,Watching observer,Peppermint,B/W,1,1,1,241
+Troop,1,310,CT,2,17/7/2023,20:46:00,-37.575043,145.700185,Trp_CT_2,Southern Greater Glider,1,R,No,76,75,485,Seen,Watching observer,Peppermint,B/W,0,1,0,242
+Troop,2,145,CT,2,17/7/2023,21:05:00,-37.575683,145.699968,Trp_CT_3,Southern Greater Glider,3,L,Yes,43,1,70,Seen,Watching observer,Peppermint,B/W,1,1,1,243
+Troop,2,145,CT,2,17/7/2023,21:22:00,-37.576306,145.700518,Trp_CT_4,Southern Greater Glider,1,L,Yes,20,5,150,Seen,Watching observer,Peppermint,B/W,0,1,0,244
+Troop,2,145,CT,2,17/7/2023,21:33:00,-37.577248,145.70133,Trp_CT_5,Southern Greater Glider,1,L,Yes,55,20,270,Seen,Idle,Peppermint,B/W,0,1,0,245
+Troop,2,145,CT,2,17/7/2023,21:40:00,-37.577248,145.70133,Trp_CT_6,Southern Greater Glider,1,L,Yes,222,2,300,Seen,Idle,Peppermint,B/W,1,1,1,246
+Troop,2,145,CT,2,17/7/2023,21:46:00,-37.578597,145.702538,Trp_CT_7,Southern Greater Glider,1,R,Yes,242,10,470,Seen,Idle,Peppermint,B/W,0,1,0,247
+Troop,2,145,CT,2,17/7/2023,21:50:00,-37.578901,145.702751,Trp_CT_8,Southern Greater Glider,1,L,No,107,30,495,Seen,Idle,Peppermint,B/W,0,1,0,248
+Troop,3,310,CT,2,17/7/2023,21:57:00,-37.578826,145.70207,Trp_CT_9,Southern Greater Glider,2,L,Yes,220,36,40,Seen,Idle,Peppermint,B/W,0,1,0,249
+Troop,3,310,CT,2,17/7/2023,22:21:00,-37.576683,145.700097,Trp_CT_10,Southern Greater Glider,1,R,Yes,43,22,350,Seen,Watching observer,Peppermint,B/W,0,1,0,250
+Troop,3,310,CT,2,17/7/2023,22:25:00,-37.576571,145.699696,Trp_CT_11,Southern Greater Glider,1,L,No,236,4,364,Seen,Idle,Peppermint,B/W,0,1,0,251
+Troop,3,310,CT,2,17/7/2023,22:27:00,-37.576558,145.69995,Trp_CT_12,Yellow Bellied-Glider,1,L,No,132,50,360,Heard,N/A,N/A,N/A,N/A,N/A,N/A,252
+Troop,3,320,CT,2,17/7/2023,22:38:00,-37.575525,145.699046,Trp_CT_13,Southern Greater Glider,2,R,No,24,5,495,Seen,Watching observer,Peppermint,B/W,1,1,1,253
+United,1,120,OLM,1,7/2/2024,21:54:00,-37.9443,146.2823,UNI T1 OLM 2,Eastern Ringtail Possum,2,left,Yes,340,15,324,seen,moving,Stringybark,,1,0,0,254
+United,2,300,OLM,1,7/2/2024,22:24:00,-37.9447,146.2843,UNI T2 OLM 1,Eastern Ringtail Possum,1,left,Yes,170,5,40,seen,moving,Tall shrub,Waypoint from CB missing - GPS corrupt,1,0,0,255
+United,2,300,OLM,1,7/2/2024,23:30:00,-37.9424,146.2796,UNI T2 OLM 2,Southern Greater Glider,1,right,No,0,20,500,seen,idle,Gum,,1,0,0,256
+Yellowdindi,1,90,CT,2,19/07/2023,19:05:00,-37.478353,145.56228,YEL_1_CT_1,Deer,1,nill,No,64,80,60,heard,N/A,N/A,,0,1,0,257
+Yellowdindi,1,90,CT,2,19/07/2023,19:33:00,-37.478357,145.560012,YEL_1_CT_2,Sugar glider,1,left,yes,20,5,260,seen,hiding,Mountain Ash,,1,1,1,258
+Yellowdindi,1,90,KA,1,19/07/2023,19:05:00,-37.478367,145.56238,YEL-KA-O1,Deer,1,R,N,339,100,170,Heard,N/A,N/A,,1,0,0,259
+Yellowdindi,1,90,KA,1,19/07/2023,19:15:00,-37.478346,145.560112,YEL-KA-O2,Sugar glider,1,L,N,248,10,247,seen,Idle,Mountain Ash,,1,1,1,260
+300-503-0001,0,0,NA,1,17/1/2024,21:30:00,-37.50445,145.56792,,Southern Greater Glider,0,,,,,,absent,,,,0,0,0,261
+Canvas,0,0,NA,1,17/1/2024,21:30:00,-37.94574,145.79705,,Southern Greater Glider,0,,,,,,absent,,,,0,0,0,262
+Alfred,0,0,NA,1,17/1/2024,21:30:00,-37.65317,147.45507,,Southern Greater Glider,0,,,,,,absent,,,,0,0,0,263
+Murrindindi,0,0,NA,1,17/1/2024,21:30:00,-37.49991,145.571,,Southern Greater Glider,0,,,,,,absent,,,,0,0,0,264
