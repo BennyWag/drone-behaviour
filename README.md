@@ -2,8 +2,6 @@
 
 Datasets and figure-code accompanying the journal article:
 
-### 'Functional Traits Associated with Drought Tolerance Exhibit Low Variability in 21 Provenances of a Montane Tree Species - _Eucalyptus delegatensis_'
-
 ### 'Drone-based wildlife surveys elicit minimal vigilance in nocturnal arboreal mammals: evidence from comparisons with ground-based detection methods'
 
 published in the Proceedings of the Royal Society of Victoria by:
